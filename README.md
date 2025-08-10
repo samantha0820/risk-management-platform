@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Options Pricing and Risk Management System
 
 ## Project Overview
@@ -53,5 +52,4 @@ bs = BlackScholes()
 price = bs.price_call(S=100, K=100, T=1, r=0.05, sigma=0.2)
 ```
 =======
-# risk-management-platform
->>>>>>> 83c508525e4cd0a08e7de2c52a2ea93b976208f9
+
